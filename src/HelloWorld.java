@@ -3,10 +3,8 @@ import java.util.Scanner;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
 		// TODO Auto-generated method stub
 		System.out.println("Hello ASE2017 - How are you? :)");
-=======
 		// TODO Auto-generated method stub
 		System.out.println("Hello ASE2017 - How are you? :)");
 		
@@ -18,7 +16,6 @@ public class HelloWorld {
 		HelloUser hu = new HelloUser(userName);
 		hu.greetUser();
 		
->>>>>>> refs/heads/HelloUser
 	}
 
 }
